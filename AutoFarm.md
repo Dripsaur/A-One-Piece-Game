@@ -516,4 +516,4 @@ loadstring(game:HttpGet("https://rawscripts.net/raw/loader_1038"))()
 
 
 
-loadstring(game:HttpGet('https://pastebin.com/raw/MinU2TPB'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Dripsaur/PLV1/main/README.md'))()
