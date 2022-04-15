@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://rawscripts.net/raw/loader_1038"))()
+loadstring(game:HttpGet('https://rawscripts.net/raw/loader_1038'))()
 
 
 
